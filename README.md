@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaykumar8288" alt="ajaykumar8288" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aj_yadav25" target="blank"><img src="https://img.shields.io/twitter/follow/aj_yadav25?logo=twitter&style=for-the-badge" alt="aj_yadav25" /></a> </p>
+<p align="left"> <a href="https://x.com/aj_yadav25" target="blank"><img src="https://img.shields.io/twitter/follow/aj_yadav25?logo=twitter&style=for-the-badge" alt="aj_yadav25" /></a> </p>
 
 - 🔭 I’m currently working on **Uber Clone**
 

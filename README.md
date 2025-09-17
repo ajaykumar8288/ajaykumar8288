@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaykumar8288&label=Profile%20views&color=0e75b6&style=flat" alt="ajaykumar8288" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aj_yadav25" target="blank"><img src="https://img.shields.io/twitter/follow/aj_yadav25?logo=twitter&style=for-the-badge" alt="aj_yadav25" /></a> </p>
+<p align="left"> <a href="https://x.com/aj_yadav25" target="blank"><img src="https://img.shields.io/twitter/follow/aj_yadav25?logo=twitter&style=for-the-badge" alt="aj_yadav25" /></a> </p>
+
+<p align="left"> <a href="https://www.linkedin.com/in/aj-yadav25/" target="blank"><img src="https://img.shields.io/linkedin/follow/aj_yadav25?logo=twitter&style=for-the-badge" alt="aj-yadav25" /></a> </p>
 
 - 🌱 I’m currently learning **FULL-STACK JAVA || FLUTTER**
 

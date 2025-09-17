@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aj_yadav25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aj_yadav25" height="30" width="40" /></a>
+<a href="https://x.com/aj_yadav25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aj_yadav25" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aj-yadav25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aj-yadav25" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ajay-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ajay-kumar" height="30" width="40" /></a>
 <a href="https://fb.com/ajayyadav8271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajayyadav8271" height="30" width="40" /></a>
